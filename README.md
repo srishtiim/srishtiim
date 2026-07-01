@@ -1,166 +1,140 @@
-::: {align="center"}
-# Hi, I'm Srishti Mukherjee 👋
 
-### AI • Data Science • Software Engineering
+<div align="center">
 
-*Building intelligent systems that bridge research and real-world
-applications.*
+# Srishti Mukherjee 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8F1FA?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/srishti-mukherjee)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EAF7F2?style=for-the-badge&logo=vercel&logoColor=black)](https://srishtiim.github.io/SrishtiPortfolio)
-[![Email](https://img.shields.io/badge/Email-FDF1EC?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:srishtii.mukherjee@gmail.com)
+### AI Engineer • Machine Learning • Software Engineering
 
-![](https://komarev.com/ghpvc/?username=srishtiim&style=flat-square&color=8AA399)
-:::
+**Building intelligent software that transforms research into real-world impact.**
 
-------------------------------------------------------------------------
+<p>
+<a href="https://www.linkedin.com/in/srishti-mukherjee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://srishtiim.github.io/SrishtiPortfolio"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:srishtii.mukherjee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-# 🌿 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Research+Intern+%40+SUNY+Buffalo;Building+LLM+%26+Healthcare+AI+Applications;Always+Learning.+Always+Building." />
 
-I'm a **B.Tech Computer Science (Data Science)** student at **Manipal
-University Jaipur** and currently a **Research Intern at the Scalable
-Analytics Research Lab, SUNY Buffalo**, where I work on multimodal
-Electronic Health Records, healthcare AI, and clinical outcome
-prediction.
+</div>
 
-I enjoy building AI systems that move beyond prototypes---from
-Retrieval-Augmented Generation (RAG) applications and NLP pipelines to
-full-stack products with measurable impact.
+---
 
-## 🌱 Currently Exploring
+## 🌿 About
 
--   🧠 Large Language Models (LLMs)
--   📚 Retrieval-Augmented Generation (RAG)
--   🏥 Healthcare AI & Clinical NLP
--   ⚙️ MLOps & Scalable AI Systems
--   ☁️ Backend Engineering
+I'm a **Computer Science (Data Science)** undergraduate at **Manipal University Jaipur** and currently a **Research Intern at the Scalable Analytics Research Lab, SUNY Buffalo**.
 
-------------------------------------------------------------------------
+My work focuses on **Healthcare AI, multimodal Electronic Health Records (EHRs), Natural Language Processing, and Machine Learning**. I enjoy taking ideas from research papers to production-ready applications that solve meaningful real-world problems.
 
-# 💼 Experience
+---
 
-  Role                          Organization       Period
-  ----------------------------- ------------------ ----------------------
-  🔬 Research Intern            SUNY Buffalo       May 2026 -- Present
-  💻 Software Intern            Total Shift Left   Jun 2025 -- Aug 2025
-  📈 Sales & Marketing Intern   Wedd.AI            Aug 2025 -- Sep 2025
-  🤝 Intern                     Smollan            Aug 2024 -- Sep 2024
+## 🚀 Currently Building
 
-------------------------------------------------------------------------
+- 🏥 Clinical outcome prediction using multimodal EHRs
+- 🧠 Retrieval-Augmented Generation (RAG) systems
+- ⚖️ ClauseGuard – AI-powered legal document intelligence
+- 📊 Intelligent workflow analytics platforms
+- 🤖 End-to-end AI applications with modern deployment pipelines
 
-# 🚀 Featured Projects
+---
 
-## 🏠 ClauseGuard
+## 💼 Experience
 
-AI-powered lease agreement analyzer using **RAG**, **GPT-4/Claude**,
-**Sentence Transformers**, **ChromaDB**, and OCR.
+| Role | Organization | Duration |
+|------|--------------|----------|
+| 🔬 Research Intern | SUNY Buffalo | May 2026 – Present |
+| 💻 Software Intern | Total Shift Left | Jun 2025 – Aug 2025 |
+| 📈 Sales & Marketing Intern | Wedd.AI | Aug 2025 – Sep 2025 |
+| 🤝 Intern | Smollan | Aug 2024 – Sep 2024 |
 
-**Highlights** - Jurisdiction-aware legal clause analysis - Semantic
-retrieval pipeline - End-to-end deployment
+---
 
-------------------------------------------------------------------------
+## ⭐ Featured Projects
 
-## 📰 News Summarizer
+### 🏠 ClauseGuard
+AI-powered lease agreement analyzer using **RAG, GPT-4/Claude, ChromaDB, OCR, and Sentence Transformers** to classify legal clauses and retrieve jurisdiction-aware information.
 
-AI-powered study assistant that summarizes current news using Hugging
-Face Transformers and generates explanations and MCQs.
+### 📰 AI News Summarizer
+Exam-focused AI news summarizer using **Hugging Face Transformers**, GNews API, and Streamlit to generate summaries, explanations, and MCQs.
 
-------------------------------------------------------------------------
+### 📊 Enterprise Workflow Inefficiency Analyzer
+Analytics platform that detects enterprise workflow bottlenecks using **Random Forest models** and visual dashboards.
 
-## 📊 Enterprise Workflow Inefficiency Analyzer
+### 📚 Book Recommendation System
+Collaborative filtering engine delivering personalized recommendations through a Streamlit application.
 
-Analytics platform that identifies workflow bottlenecks using Random
-Forest models and interactive dashboards.
+---
 
-------------------------------------------------------------------------
+## 🛠️ Tech Stack
 
-## 📚 Book Recommendation System
-
-Collaborative filtering recommendation engine serving personalized
-recommendations through Streamlit.
-
-------------------------------------------------------------------------
-
-# 🛠 Tech Stack
-
-### Languages
+**Languages**
 
 `Python` `C` `C++` `SQL`
 
-### AI / ML
+**Artificial Intelligence**
 
-`TensorFlow` `scikit-learn` `LangChain` `Hugging Face` `Pandas` `NumPy`
-`NLTK`
+`TensorFlow` `scikit-learn` `Hugging Face` `LangChain` `NumPy` `Pandas` `NLTK`
 
-### Backend
+**Backend**
 
 `FastAPI` `Flask` `Node.js` `REST APIs`
 
-### Databases
+**Databases**
 
 `MongoDB` `MySQL` `ChromaDB`
 
-### Dev Tools
+**Developer Tools**
 
-`Git` `Docker` `GitHub` `Vercel` `Render`
+`Git` `GitHub` `Docker` `Vercel` `Render`
 
-------------------------------------------------------------------------
+---
 
-# 🔬 Research
+## 🔬 Research
 
-Currently researching **clinical outcome prediction using multimodal
-Electronic Health Records (EHRs)** at SUNY Buffalo. My work focuses on
-combining structured clinical data with NLP techniques to improve
-predictive healthcare models.
+My current research explores predictive modeling using multimodal Electronic Health Records. I'm interested in applying machine learning and language models to improve clinical decision support and healthcare outcomes.
 
-------------------------------------------------------------------------
+---
 
-# 🌟 Leadership
+## 🌟 Leadership
 
--   🎤 Co-Convenor --- BEHAS 2.0
--   📰 Chief Editor --- Inkwell
--   🤝 Led multidisciplinary student teams across technical and cultural
-    initiatives.
+- Co-Convenor — **BEHAS 2.0**
+- Chief Editor — **Inkwell**
+- Led technical and cultural teams across university initiatives.
 
-------------------------------------------------------------------------
+---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-Replace `YOUR_USERNAME` with `srishtiim` if needed.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srishtiim&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtiim&layout=compact&hide_border=true"/>
+</p>
 
-``` md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishtiim&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=srishtiim&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtiim&layout=compact&hide_border=true)
+---
 
-![Streak](https://streak-stats.demolab.com?user=srishtiim&theme=default&hide_border=true)
-```
+## 💭 Philosophy
 
-------------------------------------------------------------------------
+> **Build with curiosity. Learn with humility. Ship with purpose.**
 
-# 🎯 What Drives Me
+I believe meaningful software comes from understanding people first and technology second. Every project I build is driven by the goal of creating measurable impact.
 
-> I believe great software should solve meaningful problems. Whether
-> it's healthcare AI, enterprise analytics, or NLP applications, my goal
-> is to build systems that create measurable impact while remaining
-> elegant, reliable, and accessible.
+---
 
-------------------------------------------------------------------------
+## 📫 Connect
 
-# 📫 Let's Connect
+- 🌐 Portfolio: https://srishtiim.github.io/SrishtiPortfolio
+- 💼 LinkedIn: https://www.linkedin.com/in/srishti-mukherjee
+- 📧 Email: srishtii.mukherjee@gmail.com
 
--   🌐 Portfolio: https://srishtiim.github.io/SrishtiPortfolio
--   💼 LinkedIn: https://www.linkedin.com/in/srishti-mukherjee
--   📧 Email: srishtii.mukherjee@gmail.com
+---
 
-------------------------------------------------------------------------
+<div align="center">
 
-::: {align="center"}
-### Thanks for stopping by!
+### Thanks for visiting!
 
-*Always learning. Always building. Always improving.*
+If something here resonates with you, I'd love to connect.
 
-⭐ If you find my work interesting, feel free to explore my
-repositories.
-:::
-
+</div>
