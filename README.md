@@ -37,32 +37,59 @@ My work focuses on **Healthcare AI, multimodal Electronic Health Records (EHRs),
 
 ---
 
+<table>
+<tr>
+
+<td width="38%" valign="top">
+
 ## 💼 Experience
 
-| Role | Organization | Duration |
-|------|--------------|----------|
-| 🔬 Research Intern | SUNY Buffalo | May 2026 – Present |
-| 💻 Software Intern | Total Shift Left | Jun 2025 – Aug 2025 |
-| 📈 Sales & Marketing Intern | Wedd.AI | Aug 2025 – Sep 2025 |
-| 🤝 Intern | Smollan | Aug 2024 – Sep 2024 |
+🟢 **Research Intern**  
+SUNY Buffalo
 
 ---
 
-## ⭐ Featured Projects
-
-### 🏠 ClauseGuard
-AI-powered lease agreement analyzer using **RAG, GPT-4/Claude, ChromaDB, OCR, and Sentence Transformers** to classify legal clauses and retrieve jurisdiction-aware information.
-
-### 📰 AI News Summarizer
-Exam-focused AI news summarizer using **Hugging Face Transformers**, GNews API, and Streamlit to generate summaries, explanations, and MCQs.
-
-### 📊 Enterprise Workflow Inefficiency Analyzer
-Analytics platform that detects enterprise workflow bottlenecks using **Random Forest models** and visual dashboards.
-
-### 📚 Book Recommendation System
-Collaborative filtering engine delivering personalized recommendations through a Streamlit application.
+🔵 **Software Intern**  
+Total Shift Left
 
 ---
+
+🟠 **Marketing Intern**  
+Wedd.AI
+
+---
+
+🟣 **Intern**  
+Smollan
+
+</td>
+
+<td width="62%" valign="top">
+
+## 🚀 Projects
+
+🏠 **ClauseGuard**  
+*Legal AI using GPT-4 + RAG*
+
+---
+
+📰 **News Summarizer**  
+*LLMs for education*
+
+---
+
+📊 **Workflow Analyzer**  
+*Enterprise AI Analytics*
+
+---
+
+📚 **Book Recommendation System**  
+*NLP Recommendation Engine*
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
