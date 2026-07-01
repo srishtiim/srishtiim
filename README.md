@@ -37,34 +37,6 @@ My work focuses on **Healthcare AI, multimodal Electronic Health Records (EHRs),
 
 ---
 
-<table>
-<tr>
-
-<td width="38%" valign="top">
-
-## 💼 Experience
-
-🟢 **Research Intern**  
-SUNY Buffalo
-
----
-
-🔵 **Software Intern**  
-Total Shift Left
-
----
-
-🟠 **Marketing Intern**  
-Wedd.AI
-
----
-
-🟣 **Intern**  
-Smollan
-
-</td>
-
-<td width="62%" valign="top">
 
 ## 🚀 Projects
 
@@ -73,23 +45,15 @@ Smollan
 
 ---
 
-📰 **News Summarizer**  
-*LLMs for education*
+## 🚀 Featured Projects
 
----
+<a href="https://github.com/srishtiim/ClauseGuard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srishtiim&repo=ClauseGuard" />
+</a>
 
-📊 **Workflow Analyzer**  
-*Enterprise AI Analytics*
-
----
-
-📚 **Book Recommendation System**  
-*NLP Recommendation Engine*
-
-</td>
-
-</tr>
-</table>
+<a href="https://github.com/srishtiim/NewsSummarizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srishtiim&repo=NewsSummarizer" />
+</a>
 
 ## 🛠️ Tech Stack
 
