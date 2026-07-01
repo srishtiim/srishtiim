@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Srishti Mukherjee 👋
+# Srishti Mukherjee 
 
 ### AI Engineer • Machine Learning • Software Engineering
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌿 About
+## About
 
 I'm a **Computer Science (Data Science)** undergraduate at **Manipal University Jaipur** and currently a **Research Intern at the Scalable Analytics Research Lab, SUNY Buffalo**.
 
@@ -27,13 +27,13 @@ My work focuses on **Healthcare AI, multimodal Electronic Health Records (EHRs),
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
-- 🏥 Clinical outcome prediction using multimodal EHRs
-- 🧠 Retrieval-Augmented Generation (RAG) systems
-- ⚖️ ClauseGuard – AI-powered legal document intelligence
-- 📊 Intelligent workflow analytics platforms
-- 🤖 End-to-end AI applications with modern deployment pipelines
+- Clinical outcome prediction using multimodal EHRs
+- Retrieval-Augmented Generation (RAG) systems
+- ClauseGuard – AI-powered legal document intelligence
+- Intelligent workflow analytics platforms
+- End-to-end AI applications with modern deployment pipelines
 
 ---
 
